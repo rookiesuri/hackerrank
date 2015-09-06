@@ -1,0 +1,29 @@
+git config --global user.name "rookiesuri"
+
+git config --global user.email "surendranadh.adireddi505@gmail.com"
+
+*******come to the folder..******
+
+ls
+
+in the folder
+
+git init
+
+git remote add origin https://github.com/rookiesuri/hackerrank.git
+
+**** add files***
+
+git add readme
+git add bla bal
+git add .
+
+git commit -m 'first commit'
+
+git push origin master
+
+
+link1:  https://www.youtube.com/watch?v=xh32DIHApZA
+link2:  https://www.youtube.com/watch?v=RLFVbcrdWi0
+
+
